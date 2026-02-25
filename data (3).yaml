@@ -1,0 +1,12 @@
+train: /content/drive/MyDrive/rice-leaf-diseases/datasets/images/train
+val: /content/drive/MyDrive/rice-leaf-diseases/datasets/images/val
+test: /content/drive/MyDrive/rice-leaf-diseases/datasets/images/test
+
+nc: 6
+names:
+  0: Blast
+  1: BrownSpot
+  2: Healthy
+  3: Leaf Scald
+  4: Rice-Tungro
+  5: Sheath Blight  
